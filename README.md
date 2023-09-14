@@ -33,7 +33,7 @@ Antes de começar, verifique se você atende aos seguintes requisitos:
 4. Execute o arquivo:
 
    ```bash
-   snake_game.py
+   python snake_game.py
    ```
 
 5. Divirtase.
